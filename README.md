@@ -1,6 +1,7 @@
 # Iowa-Liquor
 
 Iowa Liquor Sales
+
 I will be using the pandas data transformation functionality (melt, pivot, groupby, apply).
 
 Context of the data
