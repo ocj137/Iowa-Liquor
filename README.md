@@ -2,7 +2,7 @@
 
 Iowa Liquor Sales
 
-I use the pandas data transformation functionality (melt, pivot, groupby, apply).
+I use the pandas data transformation functions (melt, pivot, groupby, apply).
 
 Context of the data
 The state of Iowa provides many data sets on their website, including this dataset which contains transactions for all stores that have a class E liquor license.
