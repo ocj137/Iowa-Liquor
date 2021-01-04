@@ -1,4 +1,4 @@
-# Iowa-Liquor
+## Iowa-Liquor
 
 For this project of liquor use in Iowa, I use the pandas data transformation functions (melt, pivot, groupby, apply).
 
