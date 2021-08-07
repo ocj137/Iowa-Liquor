@@ -1,6 +1,6 @@
 # Iowa-Liquor
 
-Iowa Liquor Sales
+Iowa Liquor Sales project
 
 I use the pandas data transformation functions (melt, pivot, groupby, apply).
 
