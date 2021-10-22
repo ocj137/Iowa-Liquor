@@ -1,6 +1,6 @@
 ## Iowa-Liquor
 
-For this project of liquor use in Iowa, I will use the pandas data transformation functions (melt, pivot, groupby, apply).
+In this project of liquor use in Iowa, I will use the pandas data transformation functions (melt, pivot, groupby, apply).
 
 Context of the data
 The state of Iowa provides many data sets on their website, including this dataset which contains transactions for all stores that have a class E liquor license.
