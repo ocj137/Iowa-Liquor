@@ -2,7 +2,7 @@
 
 This is the Iowa Liquor Sales project
 
-In the project I  use the pandas data transformation functions (melt, pivot, groupby, apply).
+Here  I  use the pandas data transformation functions (melt, pivot, groupby, apply).
 For this project of liquor use in Iowa, I will use the pandas data transformation functions (melt, pivot, groupby, apply).
 
 Context of the data
