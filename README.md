@@ -1,6 +1,6 @@
 ## Iowa-Liquor
 
-This is the Iowa Liquor Sales project
+the Iowa Liquor Sales project
 
 Here  I  use the pandas data transformation functions (melt, pivot, groupby, apply).
 For this project of liquor use in Iowa, I will use the pandas data transformation functions (melt, pivot, groupby, apply).
